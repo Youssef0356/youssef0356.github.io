@@ -1,8 +1,10 @@
 # youssef0356.github.io
 
-Developer website for [Battle Cows](https://play.google.com/store/apps/details?id=com.the356company.battlecows).
+The Battle Cows website has moved to the game repository:
 
-## Contents
+**https://youssef0356.github.io/battle_cows/**
+
+Sources live in the [`docs/` folder of Youssef0356/battle_cows](https://github.com/Youssef0356/battle_cows/tree/main/docs):
 
 - `index.html` — Battle Cows landing page
 - `privacy.html` — Privacy Policy
